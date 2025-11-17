@@ -1,0 +1,2 @@
+"""GUI subpackage for SmartReceipt."""
+

@@ -1,0 +1,6 @@
+SmartReceipt Tax Report
+=======================
+
+This template file exists as a placeholder for product designers to
+customize the PDF output. Update it alongside `utils/pdf_generator.py`.
+
